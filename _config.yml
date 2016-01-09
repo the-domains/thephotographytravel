@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.2984823
+  brandStrength: 0.5795261
+  lightness: 0.7478921
+  rhythmicContrast: 0.7411467
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+typography_spectrum: 0.1568297
+name: ThePhotographyTravel

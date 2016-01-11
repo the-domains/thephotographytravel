@@ -1,14 +1,28 @@
+name: ThePhotographyTravel
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.1568297
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2984823
-  brandStrength: 0.5795261
-  lightness: 0.7478921
-  rhythmicContrast: 0.7411467
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-typography_spectrum: 0.1568297
-name: ThePhotographyTravel
+  brandStrength: 0.6875
+  lightness: 0.4375
+  saturation: 0.125
+  rhythmicContrast: 0.7411467
+purpose: []

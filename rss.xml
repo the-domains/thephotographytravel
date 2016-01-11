@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ThePhotographyTravel]]></title>
+        <description><![CDATA[ThePhotographyTravel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 17:37:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Test]]></title>
+            <description><![CDATA[<article><h1>The Test</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95ed3407-3136-40e8-a035-4d2da8b3e6d4.jpg"></article>]]></description>
+            <link>undefinedthe-test/index.html</link>
+            <guid isPermaLink="false">b066909f-233a-4dab-8818-b76dfefde41d</guid>
+            <pubDate>Mon, 11 Jan 2016 17:37:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
